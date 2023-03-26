@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f34d0c3e.css",
+    "main.js": "/static/js/main.d54e7ff6.js",
+    "static/js/787.244f82ee.chunk.js": "/static/js/787.244f82ee.chunk.js",
+    "static/media/img8.JPG": "/static/media/img8.a0e06215f646dd48b96b.JPG",
+    "static/media/foodphoto.jpg": "/static/media/foodphoto.db417edfb43ba94fb511.jpg",
+    "static/media/Dessert3.JPG": "/static/media/Dessert3.787a9c0001d9beef86bf.JPG",
+    "static/media/img9.JPG": "/static/media/img9.787a9c0001d9beef86bf.JPG",
+    "static/media/food2.jpg": "/static/media/food2.412c4db8afafbd0aa665.jpg",
+    "static/media/img10.JPG": "/static/media/img10.f0f311f2f39d15ae1c6a.JPG",
+    "static/media/img5.JPG": "/static/media/img5.4c398ae7f8e3c67b0c38.JPG",
+    "static/media/img2.JPG": "/static/media/img2.9788e9a4ec21e931e8a3.JPG",
+    "static/media/img1.JPG": "/static/media/img1.bf7202f5b7444ed811da.JPG",
+    "static/media/dining.jpg": "/static/media/dining.01338da309fbdcb339a0.jpg",
+    "static/media/img11.JPG": "/static/media/img11.e6b7785232562b36b0dc.JPG",
+    "static/media/Dessert2.JPG": "/static/media/Dessert2.5a63b396b6d0565c1bef.JPG",
+    "static/media/img6.JPG": "/static/media/img6.5a63b396b6d0565c1bef.JPG",
+    "static/media/img7.JPG": "/static/media/img7.5a63b396b6d0565c1bef.JPG",
+    "static/media/Dessert.JPG": "/static/media/Dessert.47ade3e2d715bf08069a.JPG",
+    "static/media/img3.JPG": "/static/media/img3.47ade3e2d715bf08069a.JPG",
+    "static/media/img4.JPG": "/static/media/img4.47ade3e2d715bf08069a.JPG",
+    "static/media/stanleys.png": "/static/media/stanleys.098659b9f19ff3830cf4.png",
+    "index.html": "/index.html",
+    "main.f34d0c3e.css.map": "/static/css/main.f34d0c3e.css.map",
+    "main.d54e7ff6.js.map": "/static/js/main.d54e7ff6.js.map",
+    "787.244f82ee.chunk.js.map": "/static/js/787.244f82ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34d0c3e.css",
+    "static/js/main.d54e7ff6.js"
+  ]
+}
